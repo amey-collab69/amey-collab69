@@ -159,9 +159,9 @@ execute();
 
 <br/>
 
-<!-- ✅ FIXED: Switched from herokuapp to streak-stats.demolab.com for accurate 737+ contribution count -->
+<!-- STREAK STATS — daily streak, no mode=weekly -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amey-collab69&theme=radical&hide_border=false&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=aaaaaa&border=00f5ff&border_radius=12&mode=weekly&card_width=720" width="720" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=amey-collab69&theme=radical&hide_border=false&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=aaaaaa&border=00f5ff&border_radius=12&card_width=720" width="720" alt="Streak Stats"/>
 </div>
 
 <br/>
